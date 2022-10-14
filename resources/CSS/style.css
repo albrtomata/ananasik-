@@ -121,6 +121,10 @@ section h3 {
     flex-wrap: wrap;
 }
 
+.sharing_container h3 {
+    text-align: left;
+}
+
 .sharing_container div {
    padding: 20px;
    flex: 350px;
